@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema dasar aplikasi -->
+    <style name="Base.Theme.QuizAppJovanka" parent="android:Theme.Material.Light.NoActionBar"/>
+
+    <!-- Tema utama aplikasi -->
+    <style name="Theme.QuizAppJovanka" parent="Base.Theme.QuizAppJovanka">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="CircleImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>

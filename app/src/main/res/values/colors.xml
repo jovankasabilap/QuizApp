@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna dasar -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna tema -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+
+    <!-- Warna tambahan -->
+    <color name="blue">#0C7FC4</color> <!-- Warna biru -->
+    <color name="navy_blue">#181A4B</color> <!-- Warna biru gelap -->
+</resources>
